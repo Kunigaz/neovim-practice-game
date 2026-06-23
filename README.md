@@ -80,7 +80,3 @@ These keymaps are active only during a practice session.
 | `<leader>H` | Request a hint. First press reveals a partial hint; second press reveals the full answer. Both reduce your spaced-repetition score for the challenge. |
 | `<leader>h` | Toggle the floating HUD on/off. Use this if the HUD overlaps content you need to see. |
 | `q` / `<CR>` | Close the session summary screen at the end of a session. |
-
-## Resetting a beginner challenge attempt
-
-Beginner challenges (levels 1–5) require an exact keystroke sequence. If you press a wrong key, press `u` to undo back to the original buffer state — this resets your keystroke history so you can try again cleanly.
