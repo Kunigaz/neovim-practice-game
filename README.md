@@ -1,3 +1,7 @@
+This is a completely vibe coded neovim plugin, everything beyond this diclaimer is written by AI. I have only tested its correctness as it pertains to my uses.
+
+**end of human written content**
+
 # nvim-practice
 
 A Neovim plugin for structured daily vim practice sessions. It uses spaced repetition to surface weak spots, tracks your keystroke efficiency, and progresses you through 10 levels of challenges — from basic movement to advanced macros and regex.
